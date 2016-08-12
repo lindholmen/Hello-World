@@ -1,2 +1,3 @@
 # Hello-World
-Just a simple hello world repository
+Just a simple hello world repository.
+Nothing new.
